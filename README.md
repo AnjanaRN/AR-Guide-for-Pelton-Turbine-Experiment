@@ -18,7 +18,6 @@ The application allows users to scan a marker or QR code and visualize the Pelto
 * **AR Foundation**
 * **ARCore**
 * **C#**
-* **Blender**
 * **Visual Studio Code**
 
 ## Project Structure
